@@ -40,14 +40,14 @@ public class main extends javax.swing.JFrame {
         lblHola.setText("Ballesito");
         jToolBar1.add(lblHola);
 
-        jTabbedPane1.addTab("tab1", jToolBar1);
+        jTabbedPane1.addTab("Robeto", jToolBar1);
 
         jToolBar2.setRollover(true);
 
         btnUwU.setText("UwU");
         jToolBar2.add(btnUwU);
 
-        jTabbedPane1.addTab("tab2", jToolBar2);
+        jTabbedPane1.addTab("David", jToolBar2);
 
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
         getContentPane().setLayout(layout);
