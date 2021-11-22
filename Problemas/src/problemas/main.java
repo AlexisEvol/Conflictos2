@@ -37,7 +37,7 @@ public class main extends javax.swing.JFrame {
 
         jToolBar1.setRollover(true);
 
-        lblHola.setText("Hola xd");
+        lblHola.setText("Aloha");
         jToolBar1.add(lblHola);
 
         jTabbedPane1.addTab("tab1", jToolBar1);
