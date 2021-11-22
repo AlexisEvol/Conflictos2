@@ -61,7 +61,7 @@
           <SubComponents>
             <Component class="javax.swing.JLabel" name="lblHola">
               <Properties>
-                <Property name="text" type="java.lang.String" value="Aloha"/>
+                <Property name="text" type="java.lang.String" value="Hola caracola"/>
               </Properties>
             </Component>
           </SubComponents>
